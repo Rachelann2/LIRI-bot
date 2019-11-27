@@ -1,11 +1,16 @@
- # **Clearly** state the problem the app is trying to solve (i.e. what is it doing and why)
+ # **Issues and Solutions** This app is similar to Siri, except it is Liri. 
 
-## Give a high-level overview of how the app is organized
+ ## Made to allow the readers to find spotify artist, songs and albums. As well as finding movie information based on a command line through node.
 
-Give *start-to-finish* instructions on how to run the app
+## It is organized through -- 
+* two javascript files
+* a gitignore
+* env all combined to allow this app to work through node
 
-* Include screenshots, 
-* gifs or videos of the app functioning
-Contain a link to a deployed version of the app
-Clearly list the technologies used in the app
-State your role in the app development
+***This app is similar to the idea behind Siri on an iphone***
+## You must use each command
+* concert-this
+* spotify-this-song
+* movie-this
+* do-what-it-says
+
